@@ -35,7 +35,7 @@ ROS package that automatically generates point-to-point cubic trajectories conne
 
   You should be able to see the visual representation of how the package works:
 
-   ![Screenshot 2019-02-13 at 18.42.03](./Screenshot 2019-02-13 at 18.42.03.png)
+   ![Screenshot 2019-02-13 at 18.42.03](Screenshot 2019-02-13 at 18.42.03.png)
 
 - To visulise the trajectories, run: (don't forget to add position_trajectory, velocity_trajectory and acceleration_trajectory topics in the GUI)
 
