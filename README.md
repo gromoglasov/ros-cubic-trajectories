@@ -50,3 +50,7 @@ ROS package that automatically generates point-to-point cubic trajectories conne
 - ros-kinetic
 - rqt
 - NumPy
+
+Everything else you need to know is in the comments.
+
+Star, fork, do your thing.
